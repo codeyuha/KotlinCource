@@ -7,12 +7,14 @@
 
 Короткий опис · Краткое описание · Short description:
 
-> Навчальний курс з Kotlin з автоматичною перевіркою тестів через GitHub Actions.
-> Учебный курс по Kotlin с автоматической проверкой тестов через GitHub Actions.
-> A hands-on Kotlin course with automated test checking via GitHub Actions.
+> Навчальний курс з Kotlin з автоматичною перевіркою тестів через IntelliJ IDEA, GitHub Actions.
+> Учебный курс по Kotlin с автоматической проверкой тестов через IntelliJ IDEA, GitHub Actions.
+> A hands-on Kotlin course with automated test checking via IntelliJ IDEA, GitHub Actions.
 
-#                            yourlogin GitHub       
-![My tests](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=main)
+| Branch | Status |
+| :--- | :--- |
+| **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=main) |
+| **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=dev) |
 
 ## English
 ### About
