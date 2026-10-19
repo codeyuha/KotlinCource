@@ -13,8 +13,8 @@
 
 | Branch | Status |
 | :--- | :--- |
-| **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=main) |
-| **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=dev) |
+| **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=main) |
+| **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=dev) |
 
 ## English
 ### About
