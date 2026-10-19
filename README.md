@@ -1,5 +1,14 @@
 
 ![Kotlin image](Kotlin.png)
+
+
+| Branch | Status |
+|:---|:---:|
+| **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=main) |
+| **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=dev) |
+
+
+
 ```markdown
 # Kotlin Course / Курс Kotlin / Курс Kotlin
 
@@ -11,11 +20,6 @@
 > Учебный курс по Kotlin с автоматической проверкой тестов через IntelliJ IDEA, GitHub Actions.
 > A hands-on Kotlin course with automated test checking via IntelliJ IDEA, GitHub Actions.
 
-
-| Branch | Status |
-|:---|:---:|
-| **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=main) |
-| **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=dev) |
 
 ## English
 ### About
@@ -252,7 +256,4 @@ Tests run automatically on every push and pull request via **GitHub Actions**.
 | `./gradlew test --tests "*Task1Test"` | Запустить один тестовый класс |
 | `./gradlew build` | Полная сборка (компиляция + тесты) |
 | `./gradlew clean` | Очистить артефакты сборки |
-
-
-
 
