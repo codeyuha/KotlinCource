@@ -11,8 +11,9 @@
 > Учебный курс по Kotlin с автоматической проверкой тестов через IntelliJ IDEA, GitHub Actions.
 > A hands-on Kotlin course with automated test checking via IntelliJ IDEA, GitHub Actions.
 
+
 | Branch | Status |
-| :--- | :--- |
+|:---|:---:|
 | **main** | ![main](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=main) |
 | **dev** | ![dev](https://github.com/codeyuha/KotlinCource/actions/workflows/detekt.yml/badge.svg?branch=dev) |
 
