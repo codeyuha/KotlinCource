@@ -11,6 +11,9 @@
 > Учебный курс по Kotlin с автоматической проверкой тестов через GitHub Actions.
 > A hands-on Kotlin course with automated test checking via GitHub Actions.
 
+#                            yourlogin GitHub       
+![My tests](https://github.com/codeyuha/KotlinCource/actions/workflows/test.yml/badge.svg?branch=main)
+
 ## English
 ### About
 This is an open Kotlin learning course. Each task is a function with a `TODO()` stub and a ready-made JUnit 5 test. Your goal is to implement the function so that all tests pass.
